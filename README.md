@@ -2,7 +2,6 @@
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
 For this project, I am given a webpage and all of it's content, including it's HTML and CSS files.
 My assignment is refactor the given code so that it is up to standard. This includes implementing Semantic HTML
 and consolidating the CSS file. After completion, the webpage should function more or less the exact same way, if not better,
